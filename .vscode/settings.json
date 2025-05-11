@@ -57,6 +57,9 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "Beecrowd Problem 1072.C": "cpp"
+    "Beecrowd Problem 1072.C": "cpp",
+    "Beecrowd Problem 1095.C": "cpp",
+    "Beecrowd Problem 1189.C": "cpp",
+    "Beecrowd Problem 1188.C": "cpp"
   }
 }
